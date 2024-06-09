@@ -3,6 +3,7 @@ package com.ameliatuttle;
 import java.util.ArrayList;
 import java.util.List;
 
+// Represent a single day in the calander and manage its events
 public class Day {
     private int dayNumber;
     private List<Event> events;
