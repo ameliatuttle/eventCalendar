@@ -10,17 +10,6 @@ Java is still one of the most used coding languages today, so I thought now woul
 
 # Development Environment
 
-The tools I used for this project are IntelliJ IDE, JDK, and mosh tutorials. After doing some research it was recommended that I try the IDE IntelliJ. It's built for Java so it's supposed to be more efficient, but personally I wasn't a fan. By the end I was using VScode again, and I had just installed the Java extention so it would work. I had to download a JDK (Java Devlopment Kit) so that I could run my project in the terminal. I really like getting more and more familiar with my CLI as I explore more into coding. The last tool I used was a YouTuber that posts really great beginer tutorials. The one I followed was 2,5 hours long and by the end I felt like I knew everything I needed to.
+The tools I used for this project are IntelliJ IDE, JDK, and mosh tutorials. After doing some research it was recommended that I try the IDE IntelliJ. It's built for Java so it's supposed to be more efficient, but personally I wasn't a fan. By the end I was using VScode again, and I had just installed the Java extention so it would work. I had to download a JDK (Java Devlopment Kit) so that I could run my project in the terminal. I really like getting more and more familiar with my CLI as I explore more into coding.
 
 Java is a high-level class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. This means that it isn't dependent on other softwares to run. Java was created by Sun Microsystems in 1991 and was named after their favorite drink, Java. In my program I used packages like java.io and java.util.scanner. Java.io is used to read and write to a file and the scanner package is used to read input from the terminal.
-
-# Useful Websites
-
-- [Programming With Mosh: Java Tutorial for Beginers](https://www.youtube.com/watch?v=eIrMbAQSU34)
-- [W3 Schools: Java Tutorials](https://www.w3schools.com/java/)
-
-# Future Work
-
-- Before I go through the hastle of downloading some new IDE or other software, I want to check to see if VSCode has an extension I can use
-- I'd like to see if there are more of my older projects I can build upon and improve. I had a good time with this one.
-- I've been mostly coding at home so far, but I would like to go to a public place to work so that I get a change of scenary.
